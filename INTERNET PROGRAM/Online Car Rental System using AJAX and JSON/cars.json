@@ -1,0 +1,121 @@
+{
+    "cars": [
+        {
+            "carType": "Sedan",
+            "brand": "Toyota",
+            "carModel": "Corolla",
+            "image": "images\/corolla.png",
+            "yearOfManufacture": 2024,
+            "mileage": "30,000 km",
+            "fuelType": "Gasoline",
+            "available": false,
+            "pricePerDay": 50,
+            "description": "A reliable and fuel-efficient sedan perfect for daily commuting.",
+            "vin": "1HGBH41JXMN109186"
+        },
+        {
+            "carType": "ORV",
+            "brand": "Jeep",
+            "carModel": "Wrangler",
+            "image": "images\/wrangler.png",
+            "yearOfManufacture": 2021,
+            "mileage": "50,000 km",
+            "fuelType": "Diesel",
+            "available": false,
+            "pricePerDay": 120,
+            "description": "Trusted representatives of off-road vehicles.",
+            "vin": "1HGBH41JXJF753951"
+        },
+        {
+            "carType": "Sedan",
+            "brand": "Mercedes-Benz",
+            "carModel": "S-Class",
+            "image": "images\/sclass.png",
+            "yearOfManufacture": 2015,
+            "mileage": "30,000 km",
+            "fuelType": "Gasoline",
+            "available": false,
+            "pricePerDay": 200,
+            "description": "Your intimate business partner.",
+            "vin": "1UYTR41JXWQ147862"
+        },
+        {
+            "carType": "MPV",
+            "brand": "Toyota",
+            "carModel": "Alphard",
+            "image": "images\/alphard.png",
+            "yearOfManufacture": 2019,
+            "mileage": "10,000 km",
+            "fuelType": "Gasoline",
+            "available": true,
+            "pricePerDay": 180,
+            "description": "The best choice for family or company.",
+            "vin": "2USTR87UXWQ654921"
+        },
+        {
+            "carType": "SUV",
+            "brand": "Honda",
+            "carModel": "CR-V",
+            "image": "images\/crv.png",
+            "yearOfManufacture": 2001,
+            "mileage": "45,000 km",
+            "fuelType": "Gasoline",
+            "available": false,
+            "pricePerDay": 70,
+            "description": "Spacious and versatile, great for family trips and outdoor adventures.",
+            "vin": "2HGFC2F60KH123456"
+        },
+        {
+            "carType": "Pickup",
+            "brand": "Ford",
+            "carModel": "Ranger",
+            "image": "images\/ranger.png",
+            "yearOfManufacture": 2017,
+            "mileage": "75,000 km",
+            "fuelType": "Gasoline",
+            "available": true,
+            "pricePerDay": 90,
+            "description": "This is the economical pickup truck I want.",
+            "vin": "1HGFC2F20KH987456"
+        },
+        {
+            "carType": "SUV",
+            "brand": "Tesla",
+            "carModel": "Model Y",
+            "image": "images\/modely.png",
+            "yearOfManufacture": 2023,
+            "mileage": "25,000 km",
+            "fuelType": "Electric",
+            "available": true,
+            "pricePerDay": 80,
+            "description": "Technology changes life.",
+            "vin": "1GTFC2F60UY124765"
+        },
+        {
+            "carType": "Sedan",
+            "brand": "Tesla",
+            "carModel": "Model 3",
+            "image": "images\/model3.png",
+            "yearOfManufacture": 2023,
+            "mileage": "25,000 km",
+            "fuelType": "Electric",
+            "available": true,
+            "pricePerDay": 80,
+            "description": "Technology changes life.",
+            "vin": "1IUYC2F88UY025864"
+        },
+        {
+            "carType": "Coupe",
+            "brand": "MINI",
+            "carModel": "Cooper",
+            "image": "images\/cooper.png",
+            "yearOfManufacture": 2025,
+            "mileage": "15,000 km",
+            "fuelType": "Gasoline",
+            "available": false,
+            "pricePerDay": 80,
+            "description": "A Stylish leisure car.",
+            "vin": "1FA6P8TH6J5134567"
+        }
+    ]
+}
