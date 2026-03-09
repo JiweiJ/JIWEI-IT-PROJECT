@@ -20,10 +20,17 @@ This repository contains several IT projects including:
   Tech Stack
 
   Tool:
+  
       Programming: Python
+  
       Data Processing: Pandas, NumPy
+  
       Visualization: Streamlit, Matplotlib
+  
       Machine Learning: Linear Regression, LightGBM
+  
       Data Collection: Requests, Bilibili API, Bluesky API
+  
       Audio Processing: yt-dlp, Whisper
+  
       Data Storage: CSV, JSON, Excel
