@@ -5,14 +5,16 @@ A collection of my IT projects including data analysis, web development, AWS and
 This repository contains several IT projects including:
 
 - Data Analysis
+
+  Tool: Knime, Python
 - AWS and Salesforce
-- 
+ 
   Tool: AWS, Salesforce
 - Software Testing
-- 
+ 
   Tool: Selenium
 - Web Programming
-- 
+ 
   Tool: Java script, AE2
 - A project that capture Bilibili videos and Bluesky posts, and preprocess and analyze the captured data
   Tech Stack
